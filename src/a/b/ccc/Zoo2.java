@@ -1,8 +1,8 @@
-package a.b.c;
+package a.b.ccc;
 
 /**
  * Created by Irina.Petrovskaya on 1/14/2015.
  */
-public class Zoo3 {
-    // 1
+public class Zoo2 {
+    // zoo2
 }
