@@ -6,4 +6,5 @@ package a.b.ccc;
 public class Zoo3 {
     // 1
     // clone2
+    // clone1
 }
